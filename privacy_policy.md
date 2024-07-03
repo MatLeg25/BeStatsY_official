@@ -45,7 +45,7 @@ In order to ensure an optimal security, you shall regularly install any Applicat
 We also advise you to regularly check for any Android OS update(s) that could be available and to enable automatic updates.
 
 ## Changes
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at https://https://github.com/MatLeg25/BeStatsY_public/privacyPolicy.md and update the "Last updated" date at the top of this Privacy Policy.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at [https://https://github.com/MatLeg25/BeStatsY_public/privacyPolicy.md ](https://github.com/MatLeg25/BeStatsY_official/blob/main/privacy_policy.md) and update the "Last updated" date at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes, as continued use is deemed approval of all changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
