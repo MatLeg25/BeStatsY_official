@@ -17,6 +17,4 @@ Mobile Android application intended to keep creating and managing statistics for
 - DI with Dagger-Hilt
 - RoomDB
 
-## Check it out!
-The application is in the testing phase. If you want to check it out, you can follow this link:
-<b>[BeStatsy](https://play.google.com/apps/testing/com.bestatsy)</b>
+<!-- ## Check it out!The application is in the testing phase. If you want to check it out, you can follow this link:<b>[BeStatsy](https://play.google.com/apps/testing/com.bestatsy)</b> -->
