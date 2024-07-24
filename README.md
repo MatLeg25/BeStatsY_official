@@ -10,6 +10,12 @@ Mobile Android application intended to keep creating and managing statistics for
 ![image](https://github.com/MatLeg25/BeStatsY_official/assets/70913892/63c6318f-f53e-403c-8d07-f25599ea052a)
 
 
+## Check it out!
+The application is under development. If you want to check it out, join the (<b>[testers group](https://groups.google.com/g/bestatsy)</b>, that will give you access to the application from the links below:
+ - https://play.google.com/apps/testing/com.bestatsy
+ - https://play.google.com/store/apps/details?id=com.bestatsy
+
+
 ## Tech stack:
 - Android
 - Kotlin, Coroutines, Flow
