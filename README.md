@@ -11,7 +11,7 @@ Mobile Android application intended to keep creating and managing statistics for
 
 
 ## Check it out!
-The application is under development. If you want to check it out, join the (<b>[testers group](https://groups.google.com/g/bestatsy)</b>, that will give you access to the application from the links below:
+The application is under development. If you want to check it out, join the <b>[testers group](https://groups.google.com/g/bestatsy)</b>, that will give you access to the application from the links below:
  - https://play.google.com/apps/testing/com.bestatsy
  - https://play.google.com/store/apps/details?id=com.bestatsy
 
