@@ -1,7 +1,7 @@
 # BeStatsY
 ![image](https://github.com/MatLeg25/BeStatsY_official/assets/70913892/87b6504e-5e1c-4950-9350-99d3a093c378)
 
-## Mobile Android application intended to create and manage statistics for football matches.
+### A mobile Android application intended to create and manage statistics for football matches.  The app allows the user to create teams and manage events for each match. The app uses RoomDB to store data.
 
 ![image](https://github.com/MatLeg25/BeStatsY_official/assets/70913892/b62f120f-61ac-4c0f-afb9-9045122d5f0e)
 
