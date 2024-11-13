@@ -15,7 +15,9 @@
 
 ## Check it out!
 The application is under development. If you want to check it out, you can do it using one of the following ways:
-1) Downlaod directly from:  <b>[BeStatsY v0.0.8](https://github.com/MatLeg25/BeStatsY_official/releases/download/v0.0.8/BeStatsY_v0.0.8.aab)</b>
+1) Downlaod directly from: <b>[BeStatsY v0.0.8](https://github.com/MatLeg25/BeStatsY_official/releases/download/v0.0.8/BeStatsY_v0.0.8.aab)</b> <br />
+<i>You may need to enable Unknown Sources in your device settings to install apps outside of the Google Play Store.</i>  [[Allow Unknown Sources on Android](https://www.wikihow.com/Allow-Apps-from-Unknown-Sources-on-Android)]
+
 2) Join the <b>[testers group](https://groups.google.com/g/bestatsy)</b>, that will give you access to the application from Google PlayStore. Use the links below:
  - https://play.google.com/apps/testing/com.bestatsy
  - https://play.google.com/store/apps/details?id=com.bestatsy
