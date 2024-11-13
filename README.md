@@ -12,7 +12,6 @@
 ## Video:
 [bestatsy-overview.webm](https://github.com/user-attachments/assets/c90cfab8-0d72-4978-82d6-ecad98f2335c)
 
-
 ## Check it out!
 The application is under development. If you want to check it out, you can do it using one of the following ways:
 1) Downlaod directly from: <b>[BeStatsY v0.0.8](https://github.com/MatLeg25/BeStatsY_official/releases/download/v0.0.8/BeStatsY_v0.0.8.aab)</b> <br />
@@ -29,5 +28,11 @@ The application is under development. If you want to check it out, you can do it
 - MVVM
 - DI with Dagger-Hilt
 - RoomDB
+
+## Sources:
+   1. App icon https://www.svgrepo.com/svg/404149/soccer-ball
+   2. App background: https://wallhaven.cc/w/49mm7d
+   3. Font https://www.fontspace.com/quadratum-unum-font-f28276
+   4. Music used in the demo video: https://www.youtube.com/watch?v=g1uLrHq9TDg
 
 <!-- ## Check it out!The application is in the testing phase. If you want to check it out, you can follow this link:<b>[BeStatsy](https://play.google.com/apps/testing/com.bestatsy)</b> -->
